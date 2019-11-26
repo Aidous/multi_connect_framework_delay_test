@@ -1,0 +1,23 @@
+Log file created at: 2019/11/26 15:23:24
+Running on machine: aidous-ThinkPad-Edge-E540
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+W1126 15:23:24.868248 21121 scheduler_factory.cc:64]  No sched conf found, use default conf.
+I1126 15:23:24.869426 21123 processor.cc:80]  processor_tid: 21123
+I1126 15:23:24.869562 21124 processor.cc:80]  processor_tid: 21124
+I1126 15:23:24.869675 21126 processor.cc:80]  processor_tid: 21126
+I1126 15:23:24.869761 21127 processor.cc:80]  processor_tid: 21127
+I1126 15:23:24.869771 21125 processor.cc:80]  processor_tid: 21125
+I1126 15:23:24.869838 21128 processor.cc:80]  processor_tid: 21128
+I1126 15:23:24.869957 21130 processor.cc:80]  processor_tid: 21130
+I1126 15:23:24.870102 21131 processor.cc:80]  processor_tid: 21131
+I1126 15:23:24.870105 21129 processor.cc:80]  processor_tid: 21129
+I1126 15:23:24.870193 21132 processor.cc:80]  processor_tid: 21132
+I1126 15:23:24.870219 21133 processor.cc:80]  processor_tid: 21133
+I1126 15:23:24.870285 21134 processor.cc:80]  processor_tid: 21134
+I1126 15:23:24.870326 21135 processor.cc:80]  processor_tid: 21135
+I1126 15:23:24.870375 21136 processor.cc:80]  processor_tid: 21136
+I1126 15:23:24.870420 21137 processor.cc:80]  processor_tid: 21137
+I1126 15:23:24.870472 21138 processor.cc:80]  processor_tid: 21138
+I1126 15:23:24.870539 21121 init.cc:104]  Register exit handle succ.
+W1126 15:23:24.877974 21121 node.h:249]  Create_reader by channel_name: channel/chatter
+I1126 15:23:24.878898 21121 scheduler.cc:55]  create croutine: listener_channel/chatter

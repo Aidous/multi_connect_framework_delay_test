@@ -1,0 +1,21 @@
+Log file created at: 2019/11/26 15:23:20
+Running on machine: aidous-ThinkPad-Edge-E540
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+W1126 15:23:20.541462 21096 scheduler_factory.cc:64]  No sched conf found, use default conf.
+I1126 15:23:20.542526 21098 processor.cc:80]  processor_tid: 21098
+I1126 15:23:20.542647 21099 processor.cc:80]  processor_tid: 21099
+I1126 15:23:20.542819 21100 processor.cc:80]  processor_tid: 21100
+I1126 15:23:20.542910 21101 processor.cc:80]  processor_tid: 21101
+I1126 15:23:20.542973 21102 processor.cc:80]  processor_tid: 21102
+I1126 15:23:20.543057 21103 processor.cc:80]  processor_tid: 21103
+I1126 15:23:20.543150 21105 processor.cc:80]  processor_tid: 21105
+I1126 15:23:20.543244 21106 processor.cc:80]  processor_tid: 21106
+I1126 15:23:20.543256 21107 processor.cc:80]  processor_tid: 21107
+I1126 15:23:20.543318 21108 processor.cc:80]  processor_tid: 21108
+I1126 15:23:20.543349 21109 processor.cc:80]  processor_tid: 21109
+I1126 15:23:20.543393 21110 processor.cc:80]  processor_tid: 21110
+I1126 15:23:20.543458 21111 processor.cc:80]  processor_tid: 21111
+I1126 15:23:20.543547 21112 processor.cc:80]  processor_tid: 21112
+I1126 15:23:20.543556 21104 processor.cc:80]  processor_tid: 21104
+I1126 15:23:20.543609 21113 processor.cc:80]  processor_tid: 21113
+I1126 15:23:20.543644 21096 init.cc:104]  Register exit handle succ.
