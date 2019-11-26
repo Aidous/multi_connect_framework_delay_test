@@ -1,4 +1,4 @@
-# multi_connect_framework_delay_test
+# Multi_connect_framework_delay_test
 The simple delay tesing based on apollo-cyber, ros-1, lcm.
 
 ## Build
@@ -56,6 +56,6 @@ cyber_listener
 python benchmarkplot.py 
 ```
 
-## simple results
+## Simple results
 
 ![benchmark](https://github.com/Aidous/multi_connect_framework_delay_test/blob/master/connect_delay_test/benchmark.png)
